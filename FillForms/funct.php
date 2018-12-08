@@ -1,7 +1,11 @@
-<?php function domTextReplace( $search, $replace, DOMNode &$domNode, $isRegEx = false ) {
+<?php function domTextReplace( $search,
+                               $replace, 
+                               DOMNode &$domNode, 
+                               $isRegEx = false ) 
+{
   if ( $domNode->hasChildNodes() ) {
     $children = array();
-    // since looping through a DOM being modified is a bad idea we prepare an array:
+// since looping through a DOM being modified is a bad idea we prep array:
     foreach ( $domNode->childNodes as $child ) {
       $children[] = $child;
     }

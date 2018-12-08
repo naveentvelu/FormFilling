@@ -1,0 +1,8 @@
+[cli]
+bears = coalaBear,DuplicateFileBear
+default_actions = *: ApplyPatchAction
+files = *.php
+[cou]
+files = *.php
+bears = LineCountBear
+max_lines_per_file = 400
