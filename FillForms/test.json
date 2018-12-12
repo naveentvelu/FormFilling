@@ -1,0 +1,20 @@
+{
+    "stuff": {
+        "itemA": {
+            "value": 33,
+            "doubled": 66
+        },
+        "itemB": {
+            "value": 44,
+            "doubled": 88
+        },
+        "itemC": {
+            "value": 55,
+            "doubled": 110
+        },
+        "itemD": {
+            "value": 66,
+            "doubled": 132
+        }
+    }
+}

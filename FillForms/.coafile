@@ -6,3 +6,6 @@ files = *.php
 files = *.php
 bears = LineCountBear
 max_lines_per_file = 400
+[JS]
+files = *.json
+bears = JSONFormatBear
