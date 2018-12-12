@@ -1,9 +1,8 @@
 # FormFilling
 A new way to handle all the form filling tasks
 CS354 - Database Project
-Form Filling
-R J Srivatsa										Naveen T
-1601CS35						   				1601CS55
+
+
 Motivation:
 This project was mainly focussed on saving the time taken to fill various forms by a person.This is more evident as the current form filling scenario is very tedious as we have to fill the same details multiple times in different forms.
 The issue here is simple, but it is unaddressed. When solved, it will result in a saving great amount of time and work.
